@@ -48,7 +48,7 @@
             this.outputDescriptionLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.outputDescriptionLabel.Location = new System.Drawing.Point(9, 9);
             this.outputDescriptionLabel.Name = "outputDescriptionLabel";
-            this.outputDescriptionLabel.Size = new System.Drawing.Size(225, 16);
+            this.outputDescriptionLabel.Size = new System.Drawing.Size(224, 16);
             this.outputDescriptionLabel.TabIndex = 1;
             this.outputDescriptionLabel.Text = "The Countries of South America";
             // 
@@ -60,6 +60,7 @@
             this.getCountriesButton.TabIndex = 2;
             this.getCountriesButton.Text = "Get Countries";
             this.getCountriesButton.UseVisualStyleBackColor = true;
+            this.getCountriesButton.Click += new System.EventHandler(this.getCountriesButton_Click);
             // 
             // exitButton
             // 
