@@ -9,3 +9,14 @@ G:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\D
 G:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\South America.pdb
 K:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\South America.exe
 K:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\South America.pdb
+C:\Users\hrogers.HFR\VisualStudioProjects\C#.NET\South America\South America\obj\x86\Debug\South America.csproj.AssemblyReference.cache
+C:\Users\hrogers.HFR\VisualStudioProjects\C#.NET\South America\South America\obj\x86\Debug\South America.csproj.SuggestedBindingRedirects.cache
+C:\Users\hrogers.HFR\VisualStudioProjects\C#.NET\South America\South America\obj\x86\Debug\South_America.Form1.resources
+C:\Users\hrogers.HFR\VisualStudioProjects\C#.NET\South America\South America\obj\x86\Debug\South_America.Properties.Resources.resources
+C:\Users\hrogers.HFR\VisualStudioProjects\C#.NET\South America\South America\obj\x86\Debug\South America.csproj.GenerateResource.cache
+C:\Users\hrogers.HFR\VisualStudioProjects\C#.NET\South America\South America\obj\x86\Debug\South America.csproj.CoreCompileInputs.cache
+C:\Users\hrogers.HFR\VisualStudioProjects\C#.NET\South America\South America\obj\x86\Debug\South America.exe
+C:\Users\hrogers.HFR\VisualStudioProjects\C#.NET\South America\South America\obj\x86\Debug\South America.pdb
+C:\Users\hrogers.HFR\VisualStudioProjects\C#.NET\South America\South America\bin\Debug\South America.exe.config
+C:\Users\hrogers.HFR\VisualStudioProjects\C#.NET\South America\South America\bin\Debug\South America.exe
+C:\Users\hrogers.HFR\VisualStudioProjects\C#.NET\South America\South America\bin\Debug\South America.pdb

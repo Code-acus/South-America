@@ -19,15 +19,33 @@ namespace South_America
 
         private void getCountriesButton_Click(object sender, EventArgs e)
         {
-            // Create the Try Catch block.
             try
             {
-                // 
-            }
+                string countryName;
+                StreamReader inputFile;
+                inputFile = File.OpenText("Countries.txt");
+                countriesListBox.Items.Clear();
 
-            catch 
-            { 
+                while (!inputFile.EndOfStream)
+                {
+                    countryName = inputFile.ReadLine();
+                    countriesListBox.Items.Add(countryName);
+                }
+
+                inputFile.Close(); // Close the file outside the while loop
             }
+            catch
+            {
+                MessageBox.Show("An error occurred.");
+            }
+        }
+
+        private void exitButton_Click(object sender, EventArgs e)
+        {
+            // Handle the exit button click event here
+            // For example:
+            this.Close(); // Close the form
         }
     }
 }
+
